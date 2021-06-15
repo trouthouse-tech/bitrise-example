@@ -24,7 +24,7 @@
    DebugInstructions,
    Header,
    LearnMoreLinks,
-   ReloadInstructions,
+   ReloadInstructions
  } from 'react-native/Libraries/NewAppScreen';
 
  const Section: React.FC<{
